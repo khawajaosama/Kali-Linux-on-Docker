@@ -17,7 +17,7 @@
 
 ## Getting Started:
 
-Getting minimal Kali image up and running
+Getting minimal Kali image up and running:
 
 ```
 $ docker pull kalilinux/kali-linux-docker
