@@ -15,7 +15,6 @@
 - It is good to have [Linux](https://www.linux.org/) OS.
 - Kali Linux ["Kali Linux"]((https://www.kali.org/news/official-kali-linux-docker-images/)
 
-    
 ## Getting Started:
 
 Getting minimal Kali image up and running
